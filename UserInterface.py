@@ -11,6 +11,8 @@ from PIL import Image, ImageTk ## Importation des modules utiles dans PIL
 from tkinter import filedialog
 from tkinter import *
 
+
+
 index = 0
 isNbInput = False
 
@@ -50,7 +52,7 @@ def isEntryValid():
 
     verify = numberOfThisKindOfCaps.get()
     try:
-        verify = int(verify)
+        testNumber = int(verify)
         saveNumberInput(verify)
         return True
     except ValueError:
@@ -62,6 +64,7 @@ def finishFirstPhase():
     
     pickle.dump( saveInfos, open( "save.p", "wb" ) )
     getCapsuleColor.main()
+
 
 fen = Tk()
 fen.attributes('-fullscreen',True)

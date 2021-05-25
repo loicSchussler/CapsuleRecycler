@@ -1,4 +1,0 @@
-path djidsdjioiekzdozkldzld
-1 5 255 255 255
-2 10 50 160 190
-3 30 80 190 0
