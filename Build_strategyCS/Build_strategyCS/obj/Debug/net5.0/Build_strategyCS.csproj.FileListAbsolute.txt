@@ -20,3 +20,25 @@ C:\Users\schus\OneDrive\Bureau\Projets\Projet capsules\Build_strategyCS\Build_st
 C:\Users\schus\OneDrive\Bureau\Projets\Projet capsules\Build_strategyCS\Build_strategyCS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\schus\OneDrive\Bureau\Projets\Projet capsules\Build_strategyCS\Build_strategyCS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\schus\OneDrive\Bureau\Projets\Projet capsules\Build_strategyCS\Build_strategyCS\obj\Debug\net5.0\Build_strategyCS.csproj.CopyComplete
+C:\Users\schus\OneDrive\Bureau\Projets\CapsuleRecycler\Build_strategyCS\Build_strategyCS\obj\Debug\net5.0\Build_strategyCS.csprojAssemblyReference.cache
+C:\Users\schus\OneDrive\Bureau\Projets\CapsuleRecycler\Build_strategyCS\Build_strategyCS\obj\Debug\net5.0\Build_strategyCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\schus\OneDrive\Bureau\Projets\CapsuleRecycler\Build_strategyCS\Build_strategyCS\obj\Debug\net5.0\Build_strategyCS.AssemblyInfoInputs.cache
+C:\Users\schus\OneDrive\Bureau\Projets\CapsuleRecycler\Build_strategyCS\Build_strategyCS\obj\Debug\net5.0\Build_strategyCS.AssemblyInfo.cs
+C:\Users\schus\OneDrive\Bureau\Projets\CapsuleRecycler\Build_strategyCS\Build_strategyCS\obj\Debug\net5.0\Build_strategyCS.csproj.CoreCompileInputs.cache
+C:\Users\schus\OneDrive\Bureau\Projets\CapsuleRecycler\Build_strategyCS\Build_strategyCS\obj\Debug\net5.0\Build_strategyCS.dll
+C:\Users\schus\OneDrive\Bureau\Projets\CapsuleRecycler\Build_strategyCS\Build_strategyCS\obj\Debug\net5.0\ref\Build_strategyCS.dll
+C:\Users\schus\OneDrive\Bureau\Projets\CapsuleRecycler\Build_strategyCS\Build_strategyCS\obj\Debug\net5.0\Build_strategyCS.pdb
+C:\Users\schus\OneDrive\Bureau\Projets\CapsuleRecycler\Build_strategyCS\Build_strategyCS\bin\Debug\net5.0\Build_strategyCS.exe
+C:\Users\schus\OneDrive\Bureau\Projets\CapsuleRecycler\Build_strategyCS\Build_strategyCS\bin\Debug\net5.0\Build_strategyCS.deps.json
+C:\Users\schus\OneDrive\Bureau\Projets\CapsuleRecycler\Build_strategyCS\Build_strategyCS\bin\Debug\net5.0\Build_strategyCS.runtimeconfig.json
+C:\Users\schus\OneDrive\Bureau\Projets\CapsuleRecycler\Build_strategyCS\Build_strategyCS\bin\Debug\net5.0\Build_strategyCS.runtimeconfig.dev.json
+C:\Users\schus\OneDrive\Bureau\Projets\CapsuleRecycler\Build_strategyCS\Build_strategyCS\bin\Debug\net5.0\Build_strategyCS.dll
+C:\Users\schus\OneDrive\Bureau\Projets\CapsuleRecycler\Build_strategyCS\Build_strategyCS\bin\Debug\net5.0\ref\Build_strategyCS.dll
+C:\Users\schus\OneDrive\Bureau\Projets\CapsuleRecycler\Build_strategyCS\Build_strategyCS\bin\Debug\net5.0\Build_strategyCS.pdb
+C:\Users\schus\OneDrive\Bureau\Projets\CapsuleRecycler\Build_strategyCS\Build_strategyCS\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\schus\OneDrive\Bureau\Projets\CapsuleRecycler\Build_strategyCS\Build_strategyCS\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\schus\OneDrive\Bureau\Projets\CapsuleRecycler\Build_strategyCS\Build_strategyCS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\schus\OneDrive\Bureau\Projets\CapsuleRecycler\Build_strategyCS\Build_strategyCS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\schus\OneDrive\Bureau\Projets\CapsuleRecycler\Build_strategyCS\Build_strategyCS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Drawing.Common.dll
+C:\Users\schus\OneDrive\Bureau\Projets\CapsuleRecycler\Build_strategyCS\Build_strategyCS\obj\Debug\net5.0\Build_strategyCS.csproj.CopyComplete
+C:\Users\schus\OneDrive\Bureau\Projets\CapsuleRecycler\Build_strategyCS\Build_strategyCS\obj\Debug\net5.0\Build_strategyCS.genruntimeconfig.cache

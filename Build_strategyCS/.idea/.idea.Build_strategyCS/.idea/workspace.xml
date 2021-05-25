@@ -1,20 +1,46 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ff09d36-d727-4907-a568-50e0ba5ff681" name="Default Changelist" comment="" />
+    <list default="true" id="2ff09d36-d727-4907-a568-50e0ba5ff681" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Build_strategyCS/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Build_strategyCS/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Build_strategyCS/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Build_strategyCS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Build_strategyCS/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build_strategyCS/Build_strategyCS.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Build_strategyCS/Build_strategyCS.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build_strategyCS/obj/Build_strategyCS.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Build_strategyCS/obj/Build_strategyCS.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build_strategyCS/obj/Build_strategyCS.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Build_strategyCS/obj/Build_strategyCS.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build_strategyCS/obj/Build_strategyCS.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Build_strategyCS/obj/Build_strategyCS.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build_strategyCS/obj/Debug/net5.0/Build_strategyCS.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Build_strategyCS/obj/Debug/net5.0/Build_strategyCS.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build_strategyCS/obj/Debug/net5.0/Build_strategyCS.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Build_strategyCS/obj/Debug/net5.0/Build_strategyCS.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build_strategyCS/obj/Debug/net5.0/Build_strategyCS.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Build_strategyCS/obj/Debug/net5.0/Build_strategyCS.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build_strategyCS/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Build_strategyCS/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build_strategyCS/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Build_strategyCS/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build_strategyCS/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Build_strategyCS/obj/project.packagespec.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Build_strategyCS/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Build_strategyCS/Program.cs" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1t1cFo9R7YgKzjwk9UdW3RILQdF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
@@ -32,19 +58,19 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Build_strategyCS/bin/Debug/net5.0/Build_strategyCS.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Build_strategyCS/bin/Debug/net5.0" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Build_strategyCS/Build_strategyCS.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="None" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v5.0" />
       <method v="2">
         <option name="Build" enabled="true" />
       </method>
@@ -61,14 +87,26 @@
       <option name="presentableId" value="Default" />
       <updated>1621939936880</updated>
       <workItem from="1621939946400" duration="349000" />
+      <workItem from="1621947855606" duration="786000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
   </component>

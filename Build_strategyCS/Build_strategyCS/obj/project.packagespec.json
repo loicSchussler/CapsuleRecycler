@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\schus\\OneDrive\\Bureau\\Projets\\Projet capsules\\Build_strategyCS\\Build_strategyCS\\Build_strategyCS.csproj",
+    "projectUniqueName": "C:\\Users\\schus\\OneDrive\\Bureau\\Projets\\CapsuleRecycler\\Build_strategyCS\\Build_strategyCS\\Build_strategyCS.csproj",
     "projectName": "Build_strategyCS",
-    "projectPath": "C:\\Users\\schus\\OneDrive\\Bureau\\Projets\\Projet capsules\\Build_strategyCS\\Build_strategyCS\\Build_strategyCS.csproj",
-    "outputPath": "C:\\Users\\schus\\OneDrive\\Bureau\\Projets\\Projet capsules\\Build_strategyCS\\Build_strategyCS\\obj\\",
+    "projectPath": "C:\\Users\\schus\\OneDrive\\Bureau\\Projets\\CapsuleRecycler\\Build_strategyCS\\Build_strategyCS\\Build_strategyCS.csproj",
+    "outputPath": "C:\\Users\\schus\\OneDrive\\Bureau\\Projets\\CapsuleRecycler\\Build_strategyCS\\Build_strategyCS\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

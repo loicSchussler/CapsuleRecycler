@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\schus\\OneDrive\\Bureau\\Projets\\Projet capsules\\Build_strategyCS\\Build_strategyCS\\Build_strategyCS.csproj": {}
+    "C:\\Users\\schus\\OneDrive\\Bureau\\Projets\\CapsuleRecycler\\Build_strategyCS\\Build_strategyCS\\Build_strategyCS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\schus\\OneDrive\\Bureau\\Projets\\Projet capsules\\Build_strategyCS\\Build_strategyCS\\Build_strategyCS.csproj": {
+    "C:\\Users\\schus\\OneDrive\\Bureau\\Projets\\CapsuleRecycler\\Build_strategyCS\\Build_strategyCS\\Build_strategyCS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\schus\\OneDrive\\Bureau\\Projets\\Projet capsules\\Build_strategyCS\\Build_strategyCS\\Build_strategyCS.csproj",
+        "projectUniqueName": "C:\\Users\\schus\\OneDrive\\Bureau\\Projets\\CapsuleRecycler\\Build_strategyCS\\Build_strategyCS\\Build_strategyCS.csproj",
         "projectName": "Build_strategyCS",
-        "projectPath": "C:\\Users\\schus\\OneDrive\\Bureau\\Projets\\Projet capsules\\Build_strategyCS\\Build_strategyCS\\Build_strategyCS.csproj",
+        "projectPath": "C:\\Users\\schus\\OneDrive\\Bureau\\Projets\\CapsuleRecycler\\Build_strategyCS\\Build_strategyCS\\Build_strategyCS.csproj",
         "packagesPath": "C:\\Users\\schus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\schus\\OneDrive\\Bureau\\Projets\\Projet capsules\\Build_strategyCS\\Build_strategyCS\\obj\\",
+        "outputPath": "C:\\Users\\schus\\OneDrive\\Bureau\\Projets\\CapsuleRecycler\\Build_strategyCS\\Build_strategyCS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -21,7 +21,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net50"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -29,7 +29,8 @@
           "https://packagesource": {}
         },
         "frameworks": {
-          "netcoreapp5.0": {
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -40,11 +41,12 @@
         }
       },
       "frameworks": {
-        "netcoreapp5.0": {
+        "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
             "System.Drawing.Common": {
               "target": "Package",
-              "version": "[5.0.2, )"
+              "version": "[4.5.2, )"
             }
           },
           "imports": [
@@ -56,7 +58,13 @@
             "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
