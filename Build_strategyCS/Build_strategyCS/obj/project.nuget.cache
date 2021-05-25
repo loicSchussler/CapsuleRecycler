@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2zeAUlxOfyKtjA2cScSxKeWyl27WyeOU6WcCFZ7Z2wzgE1yBW0lyNai4Agh1EVJdSimykBwnZuFt5BSsLF35PQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\schus\\OneDrive\\Bureau\\Projets\\Projet capsules\\Build_strategyCS\\Build_strategyCS\\Build_strategyCS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\schus\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\schus\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\schus\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

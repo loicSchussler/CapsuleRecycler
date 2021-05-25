@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\schus\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\schus\.Rider2019.2\system\resharper-host\temp\ReSharper.Db.2021-05-25_12-52-24.331" t="ExcludeRecursive" />
+    <e p="C:\Users\schus\OneDrive\Bureau\Projets\Projet capsules\Build_strategyCS" t="IncludeFlat">
+      <e p="Build_strategyCS" t="IncludeRecursive">
+        <e p="biche.jpg" t="Include" />
+        <e p="biche1.jpg" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Build_strategyCS.csproj" t="IncludeRecursive" />
+        <e p="capsule1.jpg" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="Build_strategyCS.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="Build_strategyCS.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
