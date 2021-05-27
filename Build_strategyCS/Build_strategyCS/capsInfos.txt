@@ -1,4 +1,6 @@
 C:/Users/schus/OneDrive/Bureau/Projets/CapsuleRecycler/pics
-0 10 18 113 43
-1 10 224 208 164
-2 10 252 124 6
+0 5 18 113 43
+1 5 224 208 164
+2 5 252 124 6
+C:/Users/schus/OneDrive/Bureau/Projets/CapsuleRecycler/pics/caps3.jpg
+1 1
