@@ -33,9 +33,12 @@ namespace Build_strategyCS
             return comp;
         }
 
-        public static List<(int,int,Color)> Parse(string filename)
+        public static (string,string,(int,int),List<(int,int,Color)>) Parse(string filename)
         {
             List<(int, int, Color)> InfosPictures = new List<(int, int, Color)>();
+            string directoryPath;
+            string pictureModelPath;
+            (int,int) dimensionsSupport;
 
             try
             {
@@ -43,11 +46,12 @@ namespace Build_strategyCS
                 using (StreamReader sr = new StreamReader(filename))
                 {
                     string line = sr.ReadLine();
-                    string directoryPath = getTheNWord(0, line);
+                    directoryPath = getTheNWord(0, line);
 
                     // Lire les lignes du fichier jusqu'à la fin.
-    
-                    while ((line = sr.ReadLine()) != null)
+
+                    line = sr.ReadLine();
+                    while (line[0] != 'C')
                     {
 
                         int indexOfthePictureInTheDirectory = Int32.Parse(getTheNWord(0, line));
@@ -61,17 +65,27 @@ namespace Build_strategyCS
                         colorOfTheCaps = Color.FromArgb(r, g, b);
 
                         InfosPictures.Add((indexOfthePictureInTheDirectory, numberOfThisKindOfCaps, colorOfTheCaps));
+
+                        line = sr.ReadLine();
                     }
+
+                    pictureModelPath = line;
+
+                    line = sr.ReadLine();
+                    int heightPictureModel = Int32.Parse(getTheNWord(0, line));
+                    int widthPictureModel = Int32.Parse(getTheNWord(1, line));
+                    dimensionsSupport = (heightPictureModel, widthPictureModel);
+
                 }
 
-                return InfosPictures;
+                return (directoryPath,pictureModelPath,dimensionsSupport,InfosPictures);
             }
             catch (Exception e)
             {
                 Console.WriteLine("Le fichier n'a pas pu être lu.");
                 Console.WriteLine(e.Message);
 
-                return null;
+                throw new InvalidDataException();
             }
         }
     }
